@@ -13,7 +13,7 @@ This repo looks at using the KraftHack data to do the following:
 The repo is structured as follows:
 
 * The main notebook that should be evaluated is `main-notebook.ipynb`. 
-* Data exploration notebooks can be found in the `data-exploration` folder
+* Data exploration notebooks can be found in the `data-exploration` folder. We particularily recommend the `dataset_exploration.html` file which is a very good summary of dataset 2.
 * Machine learning scripts that were used to develop the final model can be found in `machine-learning-notebooks` folder
 * Slide deck can be found in the `slide-decks` folder
 
